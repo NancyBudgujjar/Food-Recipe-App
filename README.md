@@ -1,3 +1,9 @@
+# CSE 1 - B1 : Group 1 
+# 04101012020 Shreya Mittal 
+# 04501012020 Nancy
+# 05201012020 Anushka Kumari
+# 06801012020 Akshita Goel
+
 # MyDishes
 
 * In this application you can add your dishes with recipes and photos.
